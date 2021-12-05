@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFF00"
+    android:weightSum="20">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#FFFFFF">
+
+        <android.widget.Button
+            android:id="@+id/team2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/noline"
+            android:gravity="center|left"
+            android:text="김문최고팀"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp" />
+
+        <android.widget.Button
+            android:id="@+id/aram2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/noline"
+            android:drawableRight="@drawable/aram_resize"
+            android:backgroundTint="#7B68EE"
+            android:gravity="center|right"
+            android:textSize="20dp"
+            android:textColor="#FFFF00" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="19"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/but_look"
+            android:layout_width="350dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#818181"
+            android:drawableLeft="@drawable/gomdori_resize"
+            android:gravity="center"
+            android:text="개인정보"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/but_bell"
+            android:layout_width="350dp"
+            android:layout_height="70dp"
+            android:backgroundTint="#818181"
+            android:drawableLeft="@drawable/gomdori_resize"
+            android:gravity="center"
+            android:text="알림"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:padding="0dp">
+
+        <android.widget.Button
+            android:id="@+id/fuc3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/noline"
+            android:gravity="center"
+            android:text="기능"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF" />
+
+        <android.widget.Button
+            android:id="@+id/home3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/noline"
+            android:text="홈"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF" />
+
+        <android.widget.Button
+            android:id="@+id/set3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/noline"
+            android:text="설정"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
