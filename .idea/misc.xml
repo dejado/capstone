@@ -7,15 +7,16 @@
         <entry key="..\:/android_workspace/app/src/main/res/drawable/bgomdori_resize.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/book_resize.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/gomdori_resize.xml" value="0.1" />
+        <entry key="..\:/android_workspace/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/knu_resize.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/line.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/noline.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/resize.xml" value="0.26927083333333335" />
         <entry key="..\:/android_workspace/app/src/main/res/drawable/text1.xml" value="0.1" />
-        <entry key="..\:/android_workspace/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android_workspace/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/layout/function.xml" value="0.264" />
-        <entry key="..\:/android_workspace/app/src/main/res/layout/home.xml" value="0.264" />
-        <entry key="..\:/android_workspace/app/src/main/res/layout/join.xml" value="0.264" />
+        <entry key="..\:/android_workspace/app/src/main/res/layout/home.xml" value="0.4" />
+        <entry key="..\:/android_workspace/app/src/main/res/layout/join.xml" value="0.1" />
         <entry key="..\:/android_workspace/app/src/main/res/layout/set_up.xml" value="0.264" />
       </map>
     </option>
